@@ -1,5 +1,5 @@
 x = input()
 y = input()
-print("4567")
+print("123")
 print("456")
 print(y)
